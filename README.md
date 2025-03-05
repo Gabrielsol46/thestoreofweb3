@@ -56,13 +56,22 @@ For more information, you can visit the following links:
 ## Visual Elements
 
 ### Home Page Screenshot
-![Home Page](path/to/homepage-screenshot.png)
+![image](https://github.com/user-attachments/assets/5a9461e5-8c4b-412b-ae42-695be07450e3)
+
 
 ### Products Page Screenshot
-![Products Page](path/to/products-screenshot.png)
+![image](https://github.com/user-attachments/assets/1f0bbf1a-a890-4ec9-81c6-9f3c7d73ef45)
+
 
 ### Payment Options Page Screenshot
-![Payment Options Page](path/to/payment-options-screenshot.png)
+![image](https://github.com/user-attachments/assets/6957b70e-0266-42c2-a50b-3ba97d6cb4e4)
+![image](https://github.com/user-attachments/assets/6b66df64-e05e-4ee6-88fc-6c3267e2f597)
+![image](https://github.com/user-attachments/assets/cc3fe479-188c-4866-a52f-9ec5d5f90f06)
+![image](https://github.com/user-attachments/assets/0c7c941f-046e-4a69-8468-e7449f93ffd4)
+
+
+
+
 
 ## Contact
 
